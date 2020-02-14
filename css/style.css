@@ -1,0 +1,35 @@
+body{
+
+	background: gray;
+}
+
+
+div{
+      width: 1000px;
+      margin-left: auto;
+      background: white;
+      margin-right: auto;
+      padding: 50px;
+}
+
+img{
+
+    max-width: 100%;
+
+
+}
+h1 {
+    font-size: 50px;
+    margin-top: 0;
+}
+span{
+    color: seagreen;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px #75444469;
+}
+
+p{
+    font-size: 25px;
+    color: #823f27;
+    line-height: 1.5;
+}
